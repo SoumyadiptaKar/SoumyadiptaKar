@@ -4,19 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoumyadiptaKar&label=Profile%20views&color=brightgreen&style=plastic" alt="SoumyadiptaKar" /> </p>
 <hr>
-
 - 🔭 I’m currently working on **Deep Learning, MLOPS, Image Processing, Graph Neural Network, GAN**
 
 - 🌱 I’m currently learning **Vision Transformers**
-
 - 👯 I’m looking to collaborate on **Open-Source Projects, Computer Vision Projects**
-  
 - 💬 Ask me about **Anything**
-  
 - 📫 How to reach me: **soumyadipta.kar2002@gmail.com**
-  
 - ⚡ Fun fact: **Visual Instruction Tuning is going to be the next big thing!**
-
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
