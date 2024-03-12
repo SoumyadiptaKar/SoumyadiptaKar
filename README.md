@@ -19,7 +19,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jupyter/jupyter-icon.svg" alt="jupyter-notebook" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href= https://github.com/?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'></a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/amazon_aws/amazon_aws-icon.svg](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg)" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
