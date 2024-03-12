@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SoumyadiptaKar&label=Profile%20views&color=brightgreen&style=plastic" alt="SoumyadiptaKar" /> </p>
 <hr>
-<!--
-**SoumyadiptaKar/SoumyadiptaKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 - 🔭 I’m currently working on **Deep Learning, MLOPS, Image Processing, Graph Neural Network, GAN**
 
 - 🌱 I’m currently learning **Vision Transformers**
